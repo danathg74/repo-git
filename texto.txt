@@ -4,3 +4,5 @@ Prática de Git
 Pasos para crear repo:
 - git init
 - git status
+- git add .
+- git commit -m "mensaje"
