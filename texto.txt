@@ -3,3 +3,4 @@ El veloz murciélagohindú comía feliz cardillo y kiwi
 Prática de Git
 Pasos para crear repo:
 - git init
+- git status

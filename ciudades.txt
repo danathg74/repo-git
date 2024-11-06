@@ -1,3 +1,5 @@
 Bogotá
 Cali
 Barranquilla
+Bucaramanga
+Guadalajara
